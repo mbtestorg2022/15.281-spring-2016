@@ -82,10 +82,63 @@ If you miss a scheduled oral presentation without advance consultation, you will
 Grading Scheme
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Motivational Speech and Self-Assessment | 15% |
-| Presentation to Hostile Audience | 20% |
-| Team Project: Team-led Class and Intra-team Feedback Survey | 25% |
-| Leadership Lessons Report | 20% |
-| Class Participation \[Includes occasional homework\] | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Motivational Speech and Self-Assessment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation to Hostile Audience
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Project: Team-led Class and Intra-team Feedback Survey
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Leadership Lessons Report
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation \[Includes occasional homework\]
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
