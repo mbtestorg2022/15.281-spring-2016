@@ -280,7 +280,7 @@ Davenport, Thomas H., and Jinho Kim. "[4\. Communicating and Acting on Results](
 Leadership Communication: Teaching 15.281 Team-led Class on Social Media Within Organizations
 {{< tdclose >}}
 {{< tdopen >}}
-Kane, Gerald C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Enterprise Social Media: Current Capabilities and Future Possibilities." (PDF)](http://www.misqe.org/ojs2/index.php/misqe/article/viewFile/566/390) _MIS Quarterly Executive_ 13, no. 2 (2014): 97–113.
+Kane, Gerald C. ["Enterprise Social Media: Current Capabilities and Future Possibilities." (PDF)](http://www.misqe.org/ojs2/index.php/misqe/article/viewFile/566/390) _MIS Quarterly Executive_ 13, no. 2 (2014): 97–113.
 {{< tdclose >}}
 
 {{< trclose >}}
